@@ -4,7 +4,7 @@ import json
 tables = [
     'characters',
     'paragraphs',
-    'chapters',
+    'scenes',
     'works'
 ]
 

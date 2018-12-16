@@ -1,4 +1,4 @@
-id,Title,LongTitle,Date,GenreType
+id,title,long_title,date,genre
 1,"Twelfth Night","Twelfth Night, Or What You Will",1599,Comedy
 2,"All's Well That Ends Well","All's Well That Ends Well",1602,Comedy
 3,"Antony and Cleopatra","Antony and Cleopatra",1606,Tragedy
