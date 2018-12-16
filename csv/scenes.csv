@@ -1,0 +1,946 @@
+id,act,scene,description,work_id
+1,1,1,DUKE ORSINO’s palace.,1
+2,1,2,The sea-coast.,1
+3,1,3,OLIVIA’S house.,1
+4,1,4,DUKE ORSINO’s palace.,1
+5,1,5,OLIVIA’S house.,1
+6,2,1,The sea-coast.,1
+7,2,2,A street.,1
+8,2,3,OLIVIA’s house.,1
+9,2,4,DUKE ORSINO’s palace.,1
+10,2,5,OLIVIA’s garden.,1
+11,3,1,OLIVIA’s garden.,1
+12,3,2,OLIVIA’s house.,1
+13,3,3,A street.,1
+14,3,4,OLIVIA’s garden.,1
+15,4,1,Before OLIVIA’s house.,1
+16,4,2,OLIVIA’s house.,1
+17,4,3,OLIVIA’s garden.,1
+18,5,1,Before OLIVIA’s house.,1
+19,1,1,Rousillon. The COUNT’s palace.,2
+20,1,2,Paris. The KING’s palace.,2
+21,1,3,Rousillon. The COUNT’s palace.,2
+22,2,1,Paris. The KING’s palace.,2
+23,2,2,Rousillon. The COUNT’s palace.,2
+24,2,3,Paris. The KING’s palace.,2
+25,2,4,Paris. The KING’s palace.,2
+26,2,5,Paris. The KING’s palace.,2
+27,3,1,Florence. The DUKE’s palace.,2
+28,3,2,Rousillon. The COUNT’s palace.,2
+29,3,3,Florence. Before the DUKE’s palace.,2
+30,3,4,Rousillon. The COUNT’s palace.,2
+31,3,5,Florence. Without the walls. A tucket afar off.,2
+32,3,6,Camp before Florence.,2
+33,3,7,Florence. The Widow’s house.,2
+34,4,1,Without the Florentine camp.,2
+35,4,2,Florence. The Widow’s house.,2
+36,4,3,The Florentine camp.,2
+37,4,4,Florence. The Widow’s house.,2
+38,4,5,Rousillon. The COUNT’s palace.,2
+39,5,1,Marseilles. A street.,2
+40,5,2,Rousillon. Before the COUNT’s palace.,2
+41,5,3,Rousillon. The COUNT’s palace.,2
+42,1,1,Alexandria. A room in CLEOPATRA’s palace.,3
+43,1,2,The same. Another room.,3
+44,1,3,The same. Another room.,3
+45,1,4,Rome. OCTAVIUS CAESAR’s house.,3
+46,1,5,Alexandria. CLEOPATRA’s palace.,3
+47,2,1,Messina. POMPEY’s house.,3
+48,2,2,Rome. The house of LEPIDUS.,3
+49,2,3,The same. OCTAVIUS CAESAR’s house.,3
+50,2,4,The same. A street.,3
+51,2,5,Alexandria. CLEOPATRA’s palace.,3
+52,2,6,Near Misenum.,3
+53,2,7,"On board POMPEY’s galley, off Misenum.",3
+54,3,1,A plain in Syria.,3
+55,3,2,Rome. An ante-chamber in OCTAVIUS CAESAR’s house.,3
+56,3,3,Alexandria. CLEOPATRA’s palace.,3
+57,3,4,Athens. A room in MARK ANTONY’s house.,3
+58,3,5,The same. Another room.,3
+59,3,6,Rome. OCTAVIUS CAESAR’s house.,3
+60,3,7,Near Actium. MARK ANTONY’s camp.,3
+61,3,8,A plain near Actium.,3
+62,3,9,Another part of the plain.,3
+63,3,10,Another part of the plain.\n,3
+64,3,11,Alexandria. CLEOPATRA’s palace.\n,3
+65,3,12,Egypt. OCTAVIUS CAESAR’s camp.\n,3
+66,3,13,Alexandria. CLEOPATRA’s palace.\n,3
+67,4,1,Before Alexandria. OCTAVIUS CAESAR’s camp.,3
+68,4,2,Alexandria. CLEOPATRA’s palace.,3
+69,4,3,The same. Before the palace.,3
+70,4,4,The same. A room in the palace.,3
+71,4,5,Alexandria. MARK ANTONY’s camp.,3
+72,4,6,Alexandria. OCTAVIUS CAESAR’s camp.,3
+73,4,7,Field of battle between the camps.,3
+74,4,8,Under the walls of Alexandria.,3
+75,4,9,OCTAVIUS CAESAR’s camp.,3
+76,4,10,Between the two camps.\n,3
+77,4,11,Another part of the same.\n,3
+78,4,12,Another part of the same.\n,3
+79,4,13,Alexandria. Cleopatra’s palace.\n,3
+80,4,14,The same. Another room.\n,3
+81,4,15,The same. A monument.\n,3
+82,5,1,Alexandria. OCTAVIUS CAESAR’s camp.,3
+83,5,2,Alexandria. A room in the monument.,3
+84,1,1,Orchard of OLIVER’S house,4
+85,1,2,A lawn before the DUKE’S palace,4
+86,1,3,The DUKE’s palace,4
+87,2,1,The Forest of Arden,4
+88,2,2,The DUKE’S palace,4
+89,2,3,Before OLIVER’S house,4
+90,2,4,The Forest of Arden,4
+91,2,5,Another part of the forest,4
+92,2,6,The forest,4
+93,2,7,The forest,4
+94,3,1,The palace,4
+95,3,2,The forest,4
+96,3,3,The forest,4
+97,3,4,The forest,4
+98,3,5,Another part of the forest,4
+99,4,1,The forest,4
+100,4,2,The forest,4
+101,4,3,The forest,4
+102,5,1,The forest,4
+103,5,2,The forest,4
+104,5,3,The forest,4
+105,5,4,The forest,4
+106,1,1,A hall in DUKE SOLINUS’S palace.,5
+107,1,2,The Mart.,5
+108,2,1,The house of ANTIPHOLUS of Ephesus.,5
+109,2,2,A public place.,5
+110,3,1,Before the house of ANTIPHOLUS of Ephesus.,5
+111,3,2,The same.,5
+112,4,1,A public place.,5
+113,4,2,The house of ANTIPHOLUS of Ephesus.,5
+114,4,3,A public place.,5
+115,4,4,A street.,5
+116,5,1,A street before a Priory.,5
+117,1,1,Rome. A street.,6
+118,1,2,Corioli. The Senate-house.,6
+119,1,3,Rome. A room in CORIOLANUS’ house.,6
+120,1,4,Before Corioli.,6
+121,1,5,Corioli. A street.,6
+122,1,6,Near the camp of Cominius.,6
+123,1,7,The gates of Corioli.,6
+124,1,8,A field of battle.,6
+125,1,9,The Roman camp.,6
+126,1,10,The camp of the Volsces.\n,6
+127,2,1,Rome. A public place.,6
+128,2,2,The same. The Capitol.,6
+129,2,3,The same. The Forum.,6
+130,3,1,Rome. A street.,6
+131,3,2,A room in CORIOLANUS’S house.,6
+132,3,3,The same. The Forum.,6
+133,4,2,The same. A street near the gate.,6
+134,4,3,A highway between Rome and Antium.,6
+135,4,4,Antium. Before Aufidius’s house.,6
+136,4,5,The same. A hall in Aufidius’s house.,6
+137,4,6,Rome. A public place.,6
+138,4,7,"A camp, at a small distance from Rome.",6
+139,5,1,Rome. A public place.,6
+140,5,2,Entrance of the Volscian camp before Rome.,6
+141,5,3,The tent of Coriolanus.,6
+142,5,4,Rome. A public place.,6
+143,5,5,The same. A street near the gate.,6
+144,5,6,Antium. A public place.,6
+145,1,1,Britain. The garden of Cymbeline’s palace.,7
+146,1,2,The same. A public place.,7
+147,1,3,A room in Cymbeline’s palace.,7
+148,1,4,Rome. Philario’s house.,7
+149,1,5,Britain. A room in Cymbeline’s palace.,7
+150,1,6,The same. Another room in the palace.,7
+151,2,1,Britain. Before Cymbeline’s palace.,7
+152,2,2,Imogen’s bedchamber in Cymbeline’s palace:,7
+153,2,3,An ante-chamber adjoining Imogen’s apartments.,7
+154,2,4,Rome. Philario’s house.,7
+155,2,5,Another room in Philario’s house.,7
+156,3,1,Britain. A hall in Cymbeline’s palace.,7
+157,3,2,Another room in the palace.,7
+158,3,3,Wales: a mountainous country with a cave.,7
+159,3,4,Country near Milford-Haven.,7
+160,3,5,A room in Cymbeline’s palace.,7
+161,3,6,Wales. Before the cave of Belarius.,7
+162,3,7,Rome. A public place.,7
+163,4,1,Wales: near the cave of Belarius.,7
+164,4,2,Before the cave of Belarius.,7
+165,4,3,A room in Cymbeline’s palace.,7
+166,4,4,Wales: before the cave of Belarius.,7
+167,5,1,Britain. The Roman camp.,7
+168,5,2,Field of battle between the British and Roman camps.,7
+169,5,3,Another part of the field.,7
+170,5,4,A British prison.,7
+171,5,5,Cymbeline’s tent.,7
+172,1,1,Elsinore. A platform before the Castle.,8
+173,1,2,Elsinore. A room of state in the Castle.,8
+174,1,3,Elsinore. A room in the house of Polonius.,8
+175,1,4,Elsinore. The platform before the Castle.,8
+176,1,5,Elsinore. The Castle. Another part of the fortifications.,8
+177,2,1,Elsinore. A room in the house of Polonius.,8
+178,2,2,Elsinore. A room in the Castle.,8
+179,3,1,Elsinore. A room in the Castle.,8
+180,3,2,Elsinore. hall in the Castle.,8
+181,3,3,A room in the Castle.,8
+182,3,4,The Queen’s closet.,8
+183,4,1,Elsinore. A room in the Castle.,8
+184,4,2,Elsinore. A passage in the Castle.,8
+185,4,3,Elsinore. A room in the Castle.,8
+186,4,4,Near Elsinore.,8
+187,4,5,Elsinore. A room in the Castle.,8
+188,4,6,Elsinore. Another room in the Castle.,8
+189,4,7,Elsinore. Another room in the Castle.,8
+190,5,1,Elsinore. A churchyard.,8
+191,5,2,Elsinore. A hall in the Castle.,8
+192,1,1,London. The palace.,9
+193,1,2,London. An apartment of the Prince’s.,9
+194,1,3,London. The palace.,9
+195,2,1,Rochester. An inn yard.,9
+196,2,2,"The highway, near Gadshill.",9
+197,2,3,Warkworth castle,9
+198,2,4,"The Boar’s-Head Tavern, Eastcheap.",9
+199,3,1,Bangor. The Archdeacon’s house.,9
+200,3,2,London. The palace.,9
+201,3,3,Eastcheap. The Boar’s-Head Tavern.,9
+202,4,1,The rebel camp near Shrewsbury.,9
+203,4,2,A public road near Coventry.,9
+204,4,3,The rebel camp near Shrewsbury.,9
+205,4,4,York. The ARCHBISHOP’S palace.,9
+206,5,1,KING HENRY IV’s camp near Shrewsbury.,9
+207,5,2,The rebel camp.,9
+208,5,3,Plain between the camps.,9
+209,5,4,Another part of the field.,9
+210,5,5,Another part of the field.,9
+211,0,1,Warkworth. Before NORTHUMBERLAND’S Castle,10
+212,1,1,Warkworth. Before NORTHUMBERLAND’S Castle,10
+213,1,2,London. A street,10
+214,1,3,York. The ARCHBISHOP’S palace,10
+215,2,1,London. A street,10
+216,2,2,London. Another street,10
+217,2,3,Warkworth. Before the castle,10
+218,2,4,London. The Boar’s Head Tavern in Eastcheap,10
+219,3,1,Westminster. The palace,10
+220,3,2,"Gloucestershire. Before Justice, SHALLOW’S house",10
+221,4,1,Yorkshire. Within the Forest of Gaultree,10
+222,4,2,Another part of the forest,10
+223,4,3,Another part of the forest,10
+224,4,4,Westminster. The Jerusalem Chamber,10
+225,4,5,Westminster. Another chamber,10
+226,5,1,Gloucestershire. SHALLOW’S house,10
+227,5,2,Westminster. The palace,10
+228,5,3,Gloucestershire. SHALLOW’S orchard,10
+229,5,4,London. A street,10
+230,5,5,Westminster. Near the Abbey,10
+231,0,1,Prologue.,11
+232,1,1,London. An ante-chamber in the KING’S palace.,11
+233,1,2,The same. The Presence chamber.,11
+234,2,0,Prologue.,11
+235,2,1,London. A street.,11
+236,2,2,Southampton. A council-chamber.,11
+237,2,3,London. Before a tavern.,11
+238,2,4,France. The KING’S palace.,11
+239,3,0,Prologue.,11
+240,3,1,France. Before Harfleur.,11
+241,3,2,The same.,11
+242,3,3,The same. Before the gates.,11
+243,3,4,The FRENCH KING’s palace.,11
+244,3,5,The same.,11
+245,3,6,The English camp in Picardy.,11
+246,3,7,"The French camp, near Agincourt:",11
+247,4,0,Prologue.,11
+248,4,1,The English camp at Agincourt.,11
+249,4,2,The French camp.,11
+250,4,3,The English camp.,11
+251,4,4,The field of battle.,11
+252,4,5,Another part of the field.,11
+253,4,6,Another part of the field.,11
+254,4,7,Another part of the field.,11
+255,4,8,Before KING HENRY’S pavilion.,11
+256,5,0,Prologue.,11
+257,5,1,France. The English camp.,11
+258,5,2,France. A royal palace.,11
+259,1,1,Westminster Abbey.,12
+260,1,2,France. Before Orleans.,12
+261,1,3,London. Before the Tower.,12
+262,1,4,Orleans.,12
+263,1,5,The same.,12
+264,1,6,The same.,12
+265,2,1,Before Orleans.,12
+266,2,2,Orleans. Within the town.,12
+267,2,3,Auvergne. The COUNTESS’s castle.,12
+268,2,4,London. The Temple-garden.,12
+269,2,5,The Tower of London.,12
+270,3,1,London. The Parliament-house.,12
+271,3,2,France. Before Rouen.,12
+272,3,3,The plains near Rouen.,12
+273,3,4,Paris. The palace.,12
+274,4,1,Paris. A hall of state.,12
+275,4,2,Before Bourdeaux.,12
+276,4,3,Plains in Gascony.,12
+277,4,4,Other plains in Gascony.,12
+278,4,5,The English camp near Bourdeaux.,12
+279,4,6,A field of battle.,12
+280,4,7,Another part of the field.,12
+281,5,1,London. The palace.,12
+282,5,2,France. Plains in Anjou.,12
+283,5,3,Before Angiers.,12
+284,5,4,Camp of the YORK in Anjou.,12
+285,5,5,London. The palace.,12
+286,1,1,London. The palace.,13
+287,1,2,GLOUCESTER’S house.,13
+288,1,3,The palace.,13
+289,1,4,GLOUCESTER’s garden.,13
+290,2,1,Saint Alban’s.,13
+291,2,2,London. YORK’S garden.,13
+292,2,3,A hall of justice.,13
+293,2,4,A street.,13
+294,3,1,The Abbey at Bury St. Edmund’s.,13
+295,3,2,Bury St. Edmund’s. A room of state.,13
+296,3,3,A bedchamber.,13
+297,4,1,The coast of Kent.,13
+298,4,2,Blackheath.,13
+299,4,3,Another part of Blackheath.,13
+300,4,4,London. The palace.,13
+301,4,5,London. The Tower.,13
+302,4,6,London. Cannon Street.,13
+303,4,7,London. Smithfield.,13
+304,4,8,Southwark.,13
+305,4,9,Kenilworth Castle.,13
+306,4,10,Kent. IDEN’s garden.\n,13
+307,5,1,Fields between Dartford and Blackheath.,13
+308,5,2,Saint Alban’s.,13
+309,5,3,Fields near St. Alban’s.,13
+310,1,1,London. The Parliament-house.,14
+311,1,2,Sandal Castle.,14
+312,1,3,Field of battle betwixt Sandal Castle and Wakefield.,14
+313,1,4,Another part of the field.,14
+314,2,1,A plain near Mortimer’s Cross in Herefordshire.,14
+315,2,2,Before York.,14
+316,2,3,"A field of battle between Towton and Saxton, in",14
+317,2,4,Another part of the field.,14
+318,2,5,Another part of the field.,14
+319,2,6,Another part of the field.,14
+320,3,1,A forest in the north of England.,14
+321,3,2,London. The palace.,14
+322,3,3,France. KING LEWIS XI’s palace.,14
+323,4,1,London. The palace.,14
+324,4,2,A plain in Warwickshire.,14
+325,4,3,"Edward’s camp, near Warwick.",14
+326,4,4,London. The palace.,14
+327,4,5,A park near Middleham Castle In Yorkshire.,14
+328,4,6,London. The Tower.,14
+329,4,7,Before York.,14
+330,4,8,London. The palace.,14
+331,5,1,Coventry.,14
+332,5,2,A field of battle near Barnet.,14
+333,5,3,Another part of the field.,14
+334,5,4,Plains near Tewksbury.,14
+335,5,5,Another part of the field.,14
+336,5,6,London. The Tower.,14
+337,5,7,London. The palace.,14
+338,1,0,Prologue.,15
+339,1,1,London. An ante-chamber in the palace.,15
+340,1,2,The same. The council-chamber.,15
+341,1,3,An ante-chamber in the palace.,15
+342,1,4,A Hall in York Place.,15
+343,2,1,Westminster. A street.,15
+344,2,2,An ante-chamber in the palace.,15
+345,2,3,An ante-chamber of the QUEEN’S apartments.,15
+346,2,4,A hall in Black-Friars.,15
+347,3,1,London. QUEEN KATHARINE’s apartments.,15
+348,3,2,Ante-chamber to KING HENRY VIII’s apartment.,15
+349,4,1,A street in Westminster.,15
+350,4,2,Kimbolton.,15
+351,5,1,London. A gallery in the palace.,15
+352,5,2,"Before the council-chamber. Pursuivants, Pages, &c.",15
+353,5,3,The Council-Chamber.,15
+354,5,4,The palace yard.,15
+355,5,5,The palace.,15
+356,1,1,Rome. A street.,16
+357,1,2,A public place.,16
+358,1,3,The same. A street.,16
+359,2,1,Rome. BRUTUS’s orchard.,16
+360,2,2,CAESAR’s house.,16
+361,2,3,A street near the Capitol.,16
+362,2,4,"Another part of the same street, before the house of BRUTUS.",16
+363,3,1,Rome. Before the Capitol; the Senate sitting above.,16
+364,3,2,The Forum.,16
+365,3,3,A street.,16
+366,4,1,A house in Rome.,16
+367,4,2,Camp near Sardis. Before BRUTUS’s tent.,16
+368,4,3,Brutus’s tent.,16
+369,5,1,The plains of Philippi.,16
+370,5,2,The same. The field of battle.,16
+371,5,3,Another part of the field.,16
+372,5,4,Another part of the field.,16
+373,5,5,Another part of the field.,16
+374,1,1,KING JOHN’S palace.,17
+375,2,1,France. Before Angiers.,17
+376,3,1,The French King’s pavilion.,17
+377,3,2,The same. Plains near Angiers.,17
+378,3,3,The same.,17
+379,3,4,The same. KING PHILIP’S tent.,17
+380,4,1,A room in a castle.,17
+381,4,2,KING JOHN’S palace.,17
+382,4,3,Before the castle.,17
+383,5,1,KING JOHN’S palace.,17
+384,5,2,LEWIS’s camp at St. Edmundsbury.,17
+385,5,3,The field of battle.,17
+386,5,4,Another part of the field.,17
+387,5,5,The French camp.,17
+388,5,6,An open place in the neighbourhood of Swinstead Abbey.,17
+389,5,7,The orchard in Swinstead Abbey.,17
+390,1,1,King Lear’s Palace.,18
+391,1,2,The Earl of Gloucester’s Castle.,18
+392,1,3,The Duke of Albany’s Palace.,18
+393,1,4,"The Duke of Albany’s Palace. Enter Kent, [disguised].",18
+394,1,5,"Court before the Duke of Albany’s Palace. Enter Lear, Kent, and Fool.",18
+395,2,1,A court within the Castle of the Earl of Gloucester.,18
+396,2,2,"Before Gloucester’s Castle. Enter Kent and [Oswald the] Steward, severally.",18
+397,2,3,The open country.,18
+398,2,4,Before Gloucester’s Castle; Kent in the stocks.,18
+399,3,1,A heath. Storm still.,18
+400,3,2,Another part of the heath. Storm still.,18
+401,3,3,Gloucester’s Castle.,18
+402,3,4,The heath. Before a hovel. Storm still.,18
+403,3,5,Gloucester’s Castle.,18
+404,3,6,A farmhouse near Gloucester’s Castle.,18
+405,3,7,"Gloucester’s Castle. Enter Cornwall, Regan, Goneril, [Edmund the] Bastard, and Servants.",18
+406,4,1,The heath.,18
+407,4,2,Before the Duke of Albany’s Palace.,18
+408,4,3,The French camp near Dover.,18
+409,4,4,The French camp.,18
+410,4,5,Gloucester’s Castle.,18
+411,4,6,"The country near Dover. Enter Gloucester, and Edgar [like a Peasant].",18
+412,4,7,A tent in the French camp.,18
+413,5,1,The British camp near Dover.,18
+414,5,2,A field between the two camps. Alarum within.,18
+415,5,3,"The British camp, near Dover.",18
+416,1,1,A Lover’s Complaint.,19
+417,1,1,The king of Navarre’s park.,20
+418,1,2,The same.,20
+419,2,1,The same.,20
+420,3,1,The same.,20
+421,4,1,The same.,20
+422,4,2,The same.,20
+423,4,3,The same.,20
+424,5,1,The same.,20
+425,5,2,The same.,20
+426,1,1,A desert place.,21
+427,1,2,A camp near Forres.,21
+428,1,3,A heath near Forres.,21
+429,1,4,Forres. The palace.,21
+430,1,5,Inverness. Macbeth’s castle.,21
+431,1,6,Before Macbeth’s castle.,21
+432,1,7,Macbeth’s castle.,21
+433,2,1,Court of Macbeth’s castle.,21
+434,2,2,The same.,21
+435,2,3,The same.,21
+436,2,4,Outside Macbeth’s castle.,21
+437,3,1,Forres. The palace.,21
+438,3,2,The palace.,21
+439,3,3,A park near the palace.,21
+440,3,4,The same. Hall in the palace.,21
+441,3,5,A Heath.,21
+442,3,6,Forres. The palace.,21
+443,4,1,"A cavern. In the middle, a boiling cauldron.",21
+444,4,2,Fife. Macduff’s castle.,21
+445,4,3,England. Before the King’s palace.,21
+446,5,1,Dunsinane. Ante-room in the castle.,21
+447,5,2,The country near Dunsinane.,21
+448,5,3,Dunsinane. A room in the castle.,21
+449,5,4,Country near Birnam wood.,21
+450,5,5,Dunsinane. Within the castle.,21
+451,5,6,Dunsinane. Before the castle.,21
+452,5,7,Another part of the field.,21
+453,5,8,Another part of the field.,21
+454,1,1,An apartment in the DUKE’S palace.,22
+455,1,2,A Street.,22
+456,1,3,A monastery.,22
+457,1,4,A nunnery.,22
+458,2,1,A hall In ANGELO’s house.,22
+459,2,2,Another room in the same.,22
+460,2,3,A room in a prison.,22
+461,2,4,A room in ANGELO’s house.,22
+462,3,1,A room in the prison.,22
+463,3,2,The street before the prison.,22
+464,4,1,The moated grange at ST. LUKE’s.,22
+465,4,2,A room in the prison.,22
+466,4,3,Another room in the same.,22
+467,4,4,A room in ANGELO’s house.,22
+468,4,5,Fields without the town.,22
+469,4,6,Street near the city gate.,22
+470,5,1,The city gate.,22
+471,1,1,Venice. A street.,23
+472,1,2,Belmont. A room in PORTIA’S house.,23
+473,1,3,Venice. A public place.,23
+474,2,1,Belmont. A room in PORTIA’S house.,23
+475,2,2,Venice. A street.,23
+476,2,3,The same. A room in SHYLOCK’S house.,23
+477,2,4,The same. A street.,23
+478,2,5,The same. Before SHYLOCK’S house.,23
+479,2,6,The same.,23
+480,2,7,Belmont. A room in PORTIA’S house.,23
+481,2,8,Venice. A street.,23
+482,2,9,Belmont. A room in PORTIA’S house.,23
+483,3,1,Venice. A street.,23
+484,3,2,Belmont. A room in PORTIA’S house.,23
+485,3,3,Venice. A street.,23
+486,3,4,Belmont. A room in PORTIA’S house.,23
+487,3,5,The same. A garden.,23
+488,4,1,Venice. A court of justice.,23
+489,4,2,The same. A street.,23
+490,5,1,Belmont. Avenue to PORTIA’S house.,23
+491,1,1,Windsor. Before PAGE’s house.,24
+492,1,2,The same.,24
+493,1,3,A room in the Garter Inn.,24
+494,1,4,A room in DOCTOR CAIUS’ house.,24
+495,2,1,Before PAGE’S house.,24
+496,2,2,A room in the Garter Inn.,24
+497,2,3,A field near Windsor.,24
+498,3,1,A field near Frogmore.,24
+499,3,2,A street.,24
+500,3,3,A room in FORD’S house.,24
+501,3,4,A room in PAGE’S house.,24
+502,3,5,A room in the Garter Inn.,24
+503,4,1,A street.,24
+504,4,2,A room in FORD’S house.,24
+505,4,3,A room in the Garter Inn.,24
+506,4,4,A room in FORD’S house.,24
+507,4,5,A room in the Garter Inn.,24
+508,4,6,Another room in the Garter Inn.,24
+509,5,1,A room in the Garter Inn.,24
+510,5,2,Windsor Park.,24
+511,5,3,A street leading to the Park.,24
+512,5,4,Windsor Park.,24
+513,5,5,Another part of the Park.,24
+514,1,1,Athens. The palace of THESEUS.,25
+515,1,2,Athens. QUINCE’S house.,25
+516,2,1,A wood near Athens.,25
+517,2,2,Another part of the wood.,25
+518,3,1,The wood. TITANIA lying asleep.,25
+519,3,2,Another part of the wood.,25
+520,4,1,"The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA",25
+521,4,2,Athens. QUINCE’S house.,25
+522,5,1,Athens. The palace of THESEUS.,25
+523,1,1,Before LEONATO’S house.,26
+524,1,2,A room in LEONATO’s house.,26
+525,1,3,The same.,26
+526,2,1,A hall in LEONATO’S house.,26
+527,2,2,The same.,26
+528,2,3,LEONATO’S orchard.,26
+529,3,1,LEONATO’S garden.,26
+530,3,2,A room in LEONATO’S house,26
+531,3,3,A street.,26
+532,3,4,HERO’s apartment.,26
+533,3,5,Another room in LEONATO’S house.,26
+534,4,1,A church.,26
+535,4,2,A prison.,26
+536,5,1,Before LEONATO’S house.,26
+537,5,2,LEONATO’S garden.,26
+538,5,3,A church.,26
+539,5,4,A room in LEONATO’S house.,26
+540,1,1,Venice. A street.,27
+541,1,2,Another street.,27
+542,1,3,A council-chamber.,27
+543,2,1,A Sea-port in Cyprus. An open place near the quay.,27
+544,2,2,A street.,27
+545,2,3,A hall in the castle.,27
+546,3,1,Before the castle.,27
+547,3,2,A room in the castle.,27
+548,3,3,The garden of the castle.,27
+549,3,4,Before the castle.,27
+550,4,1,Cyprus. Before the castle.,27
+551,4,2,A room in the castle.,27
+552,4,3,Another room in the castle.,27
+553,5,1,Cyprus. A street.,27
+554,5,2,A bedchamber in the castle: DESDEMONA in bed asleep;,27
+555,1,1,---,28
+556,1,2,---,28
+557,1,3,---,28
+558,1,4,---,28
+559,1,5,---,28
+560,1,6,---,28
+561,1,7,---,28
+562,1,8,---,28
+563,1,9,---,28
+564,1,10,---\n,28
+565,1,11,---\n,28
+566,1,12,---\n,28
+567,1,13,---\n,28
+568,1,14,---\n,28
+569,1,15,---\n,28
+570,1,16,Sonnet to sundry notes of music\n,28
+571,1,17,Sonnet to sundry notes of music\n,28
+572,1,18,Sonnet to sundry notes of music\n,28
+573,1,19,Sonnet to sundry notes of music\n,28
+574,1,20,Sonnet to sundry notes of music\n,28
+575,1,21,Sonnet to sundry notes of music\n,28
+576,1,0,Prologue.,29
+577,1,1,Antioch. A room in the palace.,29
+578,1,2,Tyre. A room in the palace.,29
+579,1,3,Tyre. An ante-chamber in the palace.,29
+580,1,4,Tarsus. A room in the Governor’s house.,29
+581,2,1,Pentapolis. An open place by the sea-side.,29
+582,2,2,The same. A public way or platform leading to the,29
+583,2,3,The same. A hall of state: a banquet prepared.,29
+584,2,4,Tyre. A room in the Governor’s house.,29
+585,2,5,Pentapolis. A room in the palace.,29
+586,3,0,Chorus.,29
+587,3,1,On ship.,29
+588,3,2,Ephesus. A room in CERIMON’s house.,29
+589,3,3,Tarsus. A room in CLEON’s house.,29
+590,3,4,Ephesus. A room in CERIMON’s house.,29
+591,4,0,Near the seashore.,29
+592,4,1,Tarsus. An open place near the sea-shore.,29
+593,4,2,Mytilene. A room in a brothel.,29
+594,4,3,Tarsus. A room in CLEON’s house.,29
+595,4,4,Chorus.,29
+596,4,5,Mytilene. A street before the brothel.,29
+597,4,6,The same. A room in the brothel.,29
+598,5,0,Chorus.,29
+599,5,1,"On board PERICLES’ ship, off Mytilene. A close",29
+600,5,2,Chorus.,29
+601,5,3,The temple of Diana at Ephesus; THAISA standing,29
+602,1,1,The Phoenix and the Turtle,30
+603,1,0,Dedication,31
+604,1,1,The Argument,31
+605,1,2,The Rape of Lucrece,31
+606,1,1,London. KING RICHARD II’s palace.,32
+607,1,2,The DUKE OF LANCASTER’S palace.,32
+608,1,3,The lists at Coventry.,32
+609,1,4,The court.,32
+610,2,1,Ely House.,32
+611,2,2,The palace.,32
+612,2,3,Wilds in Gloucestershire.,32
+613,2,4,A camp in Wales.,32
+614,3,1,Bristol. Before the castle.,32
+615,3,2,The coast of Wales. A castle in view.,32
+616,3,3,Wales. Before Flint castle.,32
+617,3,4,LANGLEY. The DUKE OF YORK’s garden.,32
+618,4,1,Westminster Hall.,32
+619,5,1,London. A street leading to the Tower.,32
+620,5,2,The DUKE OF YORK’s palace.,32
+621,5,3,A royal palace.,32
+622,5,4,The same.,32
+623,5,5,Pomfret castle.,32
+624,5,6,Windsor castle.,32
+625,1,1,London. A street.,33
+626,1,2,The same. Another street.,33
+627,1,3,The palace.,33
+628,1,4,London. The Tower.,33
+629,2,1,London. The palace.,33
+630,2,2,The palace.,33
+631,2,3,London. A street.,33
+632,2,4,London. The palace.,33
+633,3,1,London. A street.,33
+634,3,2,Before Lord Hastings’ house.,33
+635,3,3,Pomfret Castle.,33
+636,3,4,The Tower of London.,33
+637,3,5,The Tower-walls.,33
+638,3,6,The same.,33
+639,3,7,Baynard’s Castle.,33
+640,4,1,Before the Tower.,33
+641,4,2,London. The palace.,33
+642,4,3,The same.,33
+643,4,4,Before the palace.,33
+644,4,5,Lord Derby’s house.,33
+645,5,1,Salisbury. An open place.,33
+646,5,2,The camp near Tamworth.,33
+647,5,3,Bosworth Field.,33
+648,5,4,Another part of the field.,33
+649,5,5,Another part of the field.,33
+650,0,1,Verona: Mantua.,34
+651,1,1,Verona. A public place.,34
+652,1,2,A street.,34
+653,1,3,A room in Capulet’s house.,34
+654,1,4,A street.,34
+655,1,5,A hall in Capulet’s house.,34
+656,2,0,Prologue.,34
+657,2,1,A lane by the wall of Capulet’s orchard.,34
+658,2,2,Capulet’s orchard.,34
+659,2,3,Friar Laurence’s cell.,34
+660,2,4,A street.,34
+661,2,5,Capulet’s orchard.,34
+662,2,6,Friar Laurence’s cell.,34
+663,3,1,A public place.,34
+664,3,2,Capulet’s orchard.,34
+665,3,3,Friar Laurence’s cell.,34
+666,3,4,A room in Capulet’s house.,34
+667,3,5,Capulet’s orchard.,34
+668,4,1,Friar Laurence’s cell.,34
+669,4,2,Hall in Capulet’s house.,34
+670,4,3,Juliet’s chamber.,34
+671,4,4,Hall in Capulet’s house.,34
+672,4,5,Juliet’s chamber.,34
+673,5,1,Mantua. A street.,34
+674,5,2,Friar Laurence’s cell.,34
+675,5,3,A churchyard; in it a tomb belonging to the Capulets.,34
+676,1,1,---,35
+677,1,2,---,35
+678,1,3,---,35
+679,1,4,---,35
+680,1,5,---,35
+681,1,6,---,35
+682,1,7,---,35
+683,1,8,---,35
+684,1,9,---,35
+685,1,10,---\n,35
+686,1,11,---\n,35
+687,1,12,---\n,35
+688,1,13,---\n,35
+689,1,14,---\n,35
+690,1,15,---\n,35
+691,1,16,---\n,35
+692,1,17,---\n,35
+693,1,18,---\n,35
+694,1,19,---\n,35
+695,1,20,---\n,35
+696,1,21,---\n,35
+697,1,22,---\n,35
+698,1,23,---\n,35
+699,1,24,---\n,35
+700,1,25,---\n,35
+701,1,26,---\n,35
+702,1,27,---\n,35
+703,1,28,---\n,35
+704,1,29,---\n,35
+705,1,30,---\n,35
+706,1,31,---\n,35
+707,1,32,---\n,35
+708,1,33,---\n,35
+709,1,34,---\n,35
+710,1,35,---\n,35
+711,1,36,---\n,35
+712,1,37,---\n,35
+713,1,38,---\n,35
+714,1,39,---\n,35
+715,1,40,---\n,35
+716,1,41,---\n,35
+717,1,42,---\n,35
+718,1,43,---\n,35
+719,1,44,---\n,35
+720,1,45,---\n,35
+721,1,46,---\n,35
+722,1,47,---\n,35
+723,1,48,---\n,35
+724,1,49,---\n,35
+725,1,50,---\n,35
+726,1,51,---\n,35
+727,1,52,---\n,35
+728,1,53,---\n,35
+729,1,54,---\n,35
+730,1,55,---\n,35
+731,1,56,---\n,35
+732,1,57,---\n,35
+733,1,58,---\n,35
+734,1,59,---\n,35
+735,1,60,---\n,35
+736,1,61,---\n,35
+737,1,62,---\n,35
+738,1,63,---\n,35
+739,1,64,---\n,35
+740,1,65,---\n,35
+741,1,66,---\n,35
+742,1,67,---\n,35
+743,1,68,---\n,35
+744,1,69,---\n,35
+745,1,70,---\n,35
+746,1,71,---\n,35
+747,1,72,---\n,35
+748,1,73,---\n,35
+749,1,74,---\n,35
+750,1,75,---\n,35
+751,1,76,---\n,35
+752,1,77,---\n,35
+753,1,78,---\n,35
+754,1,79,---\n,35
+755,1,80,---\n,35
+756,1,81,---\n,35
+757,1,82,---\n,35
+758,1,83,---\n,35
+759,1,84,---\n,35
+760,1,85,---\n,35
+761,1,86,---\n,35
+762,1,87,---\n,35
+763,1,88,---\n,35
+764,1,89,---\n,35
+765,1,90,---\n,35
+766,1,91,---\n,35
+767,1,92,---\n,35
+768,1,93,---\n,35
+769,1,94,---\n,35
+770,1,95,---\n,35
+771,1,96,---\n,35
+772,1,97,---\n,35
+773,1,98,---\n,35
+774,1,99,---\n,35
+775,1,100,---\n,35
+776,1,101,---\n,35
+777,1,102,---\n,35
+778,1,103,---\n,35
+779,1,104,---\n,35
+780,1,105,---\n,35
+781,1,106,---\n,35
+782,1,107,---\n,35
+783,1,108,---\n,35
+784,1,109,---\n,35
+785,1,110,---\n,35
+786,1,111,---\n,35
+787,1,112,---\n,35
+788,1,113,---\n,35
+789,1,114,---\n,35
+790,1,115,---\n,35
+791,1,116,---\n,35
+792,1,117,---\n,35
+793,1,118,---\n,35
+794,1,119,---\n,35
+795,1,120,---\n,35
+796,1,121,---\n,35
+797,1,122,---\n,35
+798,1,123,---\n,35
+799,1,124,---\n,35
+800,1,125,---\n,35
+801,1,126,---\n,35
+802,1,127,---\n,35
+803,1,128,---\n,35
+804,1,129,---\n,35
+805,1,130,---\n,35
+806,1,131,---\n,35
+807,1,132,---\n,35
+808,1,133,---\n,35
+809,1,134,---\n,35
+810,1,135,---\n,35
+811,1,136,---\n,35
+812,1,137,---\n,35
+813,1,138,---\n,35
+814,1,139,---\n,35
+815,1,140,---\n,35
+816,1,141,---\n,35
+817,1,142,---\n,35
+818,1,143,---\n,35
+819,1,144,---\n,35
+820,1,145,---\n,35
+821,1,146,---\n,35
+822,1,147,---\n,35
+823,1,148,---\n,35
+824,1,149,---\n,35
+825,1,150,---\n,35
+826,1,151,---\n,35
+827,1,152,---\n,35
+828,1,153,---\n,35
+829,1,154,---\n,35
+830,0,1,Before an alehouse on a heath,36
+831,0,2,A bedchamber in the LORD’S house,36
+832,1,1,Padua. A public place,36
+833,1,2,Padua. Before HORTENSIO’S house,36
+834,2,1,Padua. BAPTISTA’S house,36
+835,3,1,Padua. BAPTISTA’S house,36
+836,3,2,Padua. Before BAPTISTA’So house,36
+837,4,1,PETRUCHIO’S country house,36
+838,4,2,Padua. Before BAPTISTA’S house,36
+839,4,3,PETRUCHIO’S house,36
+840,4,4,Padua. Before BAPTISTA’S house,36
+841,4,5,A public road,36
+842,5,1,Padua. Before LUCENTIO’S house,36
+843,5,2,LUCENTIO’S house,36
+844,1,1,On a ship at sea: a tempestuous noise,37
+845,1,2,The island. Before PROSPERO’S cell.,37
+846,2,1,Another part of the island.,37
+847,2,2,Another part of the island.,37
+848,3,1,Before PROSPERO’S Cell.,37
+849,3,2,Another part of the island.,37
+850,3,3,Another part of the island.,37
+851,4,1,Before PROSPERO’S cell.,37
+852,5,1,Before PROSPERO’S cell.,37
+853,1,1,Athens. A hall in Timon’s house.,38
+854,1,2,A banqueting-room in Timon’s house.,38
+855,2,1,A Senator’s house.,38
+856,2,2,The same. A hall in Timon’s house.,38
+857,3,1,A room in Lucullus’ house.,38
+858,3,2,A public place.,38
+859,3,3,A room in Sempronius’ house.,38
+860,3,4,The same. A hall in Timon’s house.,38
+861,3,5,The same. The senate-house. The Senate sitting.,38
+862,3,6,The same. A banqueting-room in Timon’s house.,38
+863,4,1,Without the walls of Athens.,38
+864,4,2,Athens. A room in Timon’s house.,38
+865,4,3,"Woods and cave, near the seashore.",38
+866,5,1,The woods. Before Timon’s cave.,38
+867,5,2,Before the walls of Athens.,38
+868,5,3,"The woods. Timon’s cave, and a rude tomb seen.",38
+869,5,4,Before the walls of Athens.,38
+870,1,1,Rome. Before the Capitol.,39
+871,2,1,Rome. Before the Palace.,39
+872,2,2,A forest near Rome. Horns and cry of hounds heard.,39
+873,2,3,A lonely part of the forest.,39
+874,2,4,Another part of the forest.,39
+875,3,1,Rome. A street.,39
+876,3,2,A room in Titus’s house. A banquet set out.,39
+877,4,1,Rome. Titus’s garden.,39
+878,4,2,The same. A room in the palace.,39
+879,4,3,The same. A public place.,39
+880,4,4,The same. Before the palace.,39
+881,5,1,Plains near Rome.,39
+882,5,2,Rome. Before TITUS’s house.,39
+883,5,3,Court of TITUS’s house. A banquet set out.,39
+884,1,0,Prologue.,40
+885,1,1,Troy. Before Priam’s palace.,40
+886,1,2,The Same. A street.,40
+887,1,3,The Grecian camp. Before Agamemnon’s tent.,40
+888,2,1,A part of the Grecian camp.,40
+889,2,2,Troy. A room in Priam’s palace.,40
+890,2,3,The Grecian camp. Before Achilles’ tent.,40
+891,3,1,Troy. Priam’s palace.,40
+892,3,2,The same. Pandarus’ orchard.,40
+893,3,3,The Grecian camp. Before Achilles’ tent.,40
+894,4,1,Troy. A street.,40
+895,4,2,The same. Court of Pandarus’ house.,40
+896,4,3,The same. Street before Pandarus’ house.,40
+897,4,4,The same. Pandarus’ house.,40
+898,4,5,The Grecian camp. Lists set out.,40
+899,5,1,The Grecian camp. Before Achilles’ tent.,40
+900,5,2,The same. Before Calchas’ tent.,40
+901,5,3,Troy. Before Priam’s palace.,40
+902,5,4,Plains between Troy and the Grecian camp.,40
+903,5,5,Another part of the plains.,40
+904,5,6,Another part of the plains.,40
+905,5,7,Another part of the plains.,40
+906,5,8,Another part of the plains.,40
+907,5,9,Another part of the plains.,40
+908,5,10,Another part of the plains.\n,40
+909,1,1,Verona. An open place.,41
+910,1,2,The same. Garden of JULIA’s house.,41
+911,1,3,The same. ANTONIO’s house.,41
+912,2,1,Milan. The DUKE’s palace.,41
+913,2,2,Verona. JULIA’S house.,41
+914,2,3,The same. A street.,41
+915,2,4,Milan. The DUKE’s palace.,41
+916,2,5,The same. A street.,41
+917,2,6,The same. The DUKE’S palace.,41
+918,2,7,Verona. JULIA’S house.,41
+919,3,1,Milan. The DUKE’s palace.,41
+920,3,2,The same. The DUKE’s palace.,41
+921,4,1,The frontiers of Mantua. A forest.,41
+922,4,2,"Milan. Outside the DUKE’s palace, under SILVIA’s chamber.",41
+923,4,3,The same.,41
+924,4,4,The same.,41
+925,5,1,Milan. An abbey.,41
+926,5,2,The same. The DUKE’s palace.,41
+927,5,3,The frontiers of Mantua. The forest.,41
+928,5,4,Another part of the forest.,41
+929,1,0,Dedication.,42
+930,1,1,Venus and Adonis.,42
+931,1,1,Antechamber in LEONTES’ palace.,43
+932,1,2,A room of state in the same.,43
+933,2,1,A room in LEONTES’ palace.,43
+934,2,2,A prison.,43
+935,2,3,A room in LEONTES’ palace.,43
+936,3,1,A sea-port in Sicilia.,43
+937,3,2,A court of Justice.,43
+938,3,3,Bohemia. A desert country near the sea.,43
+939,4,1,Chorus as Time speaks.,43
+940,4,2,Bohemia. The palace of POLIXENES.,43
+941,4,3,A road near the Shepherd’s cottage.,43
+942,4,4,The Shepherd’s cottage.,43
+943,5,1,A room in LEONTES’ palace.,43
+944,5,2,Before LEONTES’ palace.,43
+945,5,3,A chapel in PAULINA’S house.,43
